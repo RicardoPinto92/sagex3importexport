@@ -97,7 +97,7 @@ Feel free to suggest improvements, report issues, or adapt the logic for other S
 
 ## 🧑‍💻 Author
 
-This script was developed to optimize administrative workflows for managing item tariffs and discounts in SAGE X3.
+Ricardo Pinto
 
 ---
 
@@ -201,7 +201,7 @@ Sinta-se à vontade para propor melhorias, reportar erros ou adaptar a lógica a
 
 ## 🧑‍💻 Autor
 
-Este script foi desenvolvido com foco em otimizar fluxos de trabalho administrativos no contexto de gestão de artigos e descontos no SAGE X3.
+Ricardo Pinto
 
 ---
 
@@ -305,4 +305,4 @@ N’hésitez pas à proposer des améliorations, signaler des bugs ou adapter la
 
 ## 🧑‍💻 Auteur
 
-Ce script a été développé pour optimiser les processus administratifs de gestion des articles et des remises dans SAGE X3.
+Ricardo Pinto
