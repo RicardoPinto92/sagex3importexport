@@ -46,7 +46,7 @@ pip install inquirer
 1. **Run the script:**
 
 ```bash
-python substituidor.py
+python ficheiroscsv_multiligue.py
 ```
 
 2. **Follow the interactive menu:**
@@ -150,7 +150,7 @@ pip install inquirer
 1. **Executa o script:**
 
 ```bash
-python substituidor.py
+python ficheiroscsv_multiligue.py
 ```
 
 2. **Segue os menus interativos:**
@@ -254,7 +254,7 @@ pip install inquirer
 1. **Lancer le script :**
 
 ```bash
-python substituidor.py
+python ficheiroscsv_multiligue.py
 ```
 
 2. **Suivre les menus interactifs :**
