@@ -1,4 +1,4 @@
-# 🇬🇧 Enlgish Version
+# 🇬🇧 English Version
 # 🔧 Reference Replacement Tool for CSV Files (SAGE X3)
 
 This project is an interactive tool developed in **Python** to facilitate handling of CSV files used in **SAGE X3**, particularly in the processes of importing **tariffs and commercial discounts**.
